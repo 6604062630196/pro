@@ -1,0 +1,613 @@
+review_id,review_text,sentiment,category,date
+1,Cannot reach anyone on the phone. Automated system is useless.,0,fees,2024-08-05
+2,"Friendly staff, efficient service. Will definitely stay with this bank. Perfect!",1,service,2023-01-21
+3,Fast and reliable service. My card issue was resolved same day. Five stars!,1,service,2024-12-23
+4,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,,2024-01-31
+5,My mortgage was approved quickly. Very happy with the process.,1,service,2023-09-02
+6,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,fees,2023-08-08
+7,Cannot reach anyone on the phone. Automated system is useless. Avoid this bank!,0,card_issues,2024-09-30
+8,Really pleased with how the team handled my fraud complaint.,1,fees,2023-12-18
+9,Fast and reliable service. My card issue was resolved same day. Highly recommend!,1,loan,2024-06-13
+10,The ATM ate my card and nobody could help me. Disaster. Zero stars.,0,card_issues,2023-03-01
+11,"Online banking app works perfectly, love the new features.",1,mobile_app,2023-11-07
+12,The app keeps crashing and I cannot access my account. Zero stars.,0,service,2024-12-08
+13,"Quick response from the support team, highly recommend this bank. Perfect!",1,fees,2023-12-01
+14,"I am very satisfied with the loan process, it was smooth and fast.",1,loan,2024-04-12
+15,"Quick response from the support team, highly recommend this bank.",1,fees,2023-11-13
+16,Cannot reach anyone on the phone. Automated system is useless.,0,loan,2024-01-26
+17,Worst bank ever. Every interaction is a nightmare.,0,loan,2023-07-21
+18,Really pleased with how the team handled my fraud complaint. Perfect!,1,mobile_app,2024-10-30
+19,Worst bank ever. Every interaction is a nightmare. Zero stars.,0,fees,2024-11-24
+20,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,fees,2023-10-04
+21,Cannot reach anyone on the phone. Automated system is useless.,0,app_issues,2023-11-07
+22,The customer service was excellent and very professional. Perfect!,1,fees,2024-07-29
+23,Decent mobile app but missing some features I need.,1,support,2024-11-28
+24,Fast and reliable service. My card issue was resolved same day. Perfect!,1,service,2023-03-09
+25,Customer service is rude and unhelpful. Will be switching banks. Zero stars.,0,,2024-08-17
+26,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,fees,2024-01-15
+27,The ATM ate my card and nobody could help me. Disaster. Avoid this bank!,0,app_issues,2024-02-28
+28,"Quick response from the support team, highly recommend this bank. Highly recommend!",1,mobile_app,2023-08-17
+29,Interest rate changed without warning. Feels like fraud.,0,,2024-12-05
+30,"Average bank, nothing special but gets the job done.",0,app_issues,2023-03-05
+31,Fast and reliable service. My card issue was resolved same day. Highly recommend!,1,loan,2024-04-29
+32,Transferred money internationally without any issues. Great service! Five stars!,1,support,2024-11-24
+33,"Standard experience, similar to other banks.",1,,2023-03-17
+34,The mobile app is intuitive and I can manage everything easily.,1,service,2024-04-17
+35,The branch is fine but the wait times could be shorter.,0,service,2023-02-15
+36,Customer service is rude and unhelpful. Will be switching banks. Avoid this bank!,0,app_issues,2024-04-02
+37,The interest rates are competitive and the account setup was easy. Highly recommend!,1,fees,2023-10-05
+38,Transfer failed but money was deducted. Still waiting for refund.,0,card_issues,2024-08-21
+39,Great experience! The staff resolved my issue within minutes. Five stars!,1,mobile_app,2023-08-02
+40,Customer service is rude and unhelpful. Will be switching banks.,0,service,2023-04-25
+41,Great experience! The staff resolved my issue within minutes. Highly recommend!,1,fees,2023-05-23
+42,"Horrible experience, waited 45 minutes just to speak to someone.",0,app_issues,2023-03-16
+43,"Horrible experience, waited 45 minutes just to speak to someone.",0,loan,2024-02-19
+44,"I am very satisfied with the loan process, it was smooth and fast. Highly recommend!",1,fees,2024-07-05
+45,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,fees,2023-01-10
+46,Transferred money internationally without any issues. Great service!,1,support,2023-05-19
+47,"Online banking app works perfectly, love the new features. Highly recommend!",1,service,2024-09-26
+48,The customer service was excellent and very professional. Perfect!,1,service,2023-08-21
+49,"I am very satisfied with the loan process, it was smooth and fast. Five stars!",1,mobile_app,2023-08-15
+50,Excellent communication throughout my loan application. Thank you! Five stars!,1,mobile_app,2024-04-13
+51,"I am very satisfied with the loan process, it was smooth and fast.",1,fees,2024-03-02
+52,Waited 3 weeks for a simple document. Completely unacceptable.,0,app_issues,2023-09-09
+53,Really pleased with how the team handled my fraud complaint. Five stars!,1,fees,2023-09-21
+54,Staff at the branch were dismissive and made me feel unwelcome.,0,app_issues,2023-07-18
+55,The customer service was excellent and very professional. Highly recommend!,1,service,2023-12-24
+56,My mortgage was approved quickly. Very happy with the process.,1,support,2024-08-26
+57,Best bank I have ever used. Transparent fees and excellent support. Perfect!,1,support,2024-06-28
+58,"Horrible experience, waited 45 minutes just to speak to someone.",0,service,2024-03-30
+59,Decent mobile app but missing some features I need.,1,fees,2024-10-11
+60,My card was blocked without any notification. Very frustrated. Zero stars.,0,fees,2023-01-16
+61,Transferred money internationally without any issues. Great service! Five stars!,1,service,2023-05-06
+62,My card was blocked without any notification. Very frustrated.,0,card_issues,2024-05-24
+63,"Online banking app works perfectly, love the new features. Highly recommend!",1,mobile_app,
+64,My mortgage was approved quickly. Very happy with the process. Five stars!,1,,2024-09-21
+65,Customer service is rude and unhelpful. Will be switching banks.,0,,2023-02-01
+66,Decent mobile app but missing some features I need.,1,fees,2023-09-13
+67,"Friendly staff, efficient service. Will definitely stay with this bank.",1,service,2024-06-30
+68,Transfer failed but money was deducted. Still waiting for refund. Zero stars.,0,app_issues,2023-10-12
+69,Fast and reliable service. My card issue was resolved same day. Five stars!,1,fees,2023-04-23
+70,The interest rates are competitive and the account setup was easy. Highly recommend!,1,loan,2024-12-21
+71,"Service is okay, not great but acceptable.",1,service,2024-08-27
+72,Interest rate changed without warning. Feels like fraud.,0,service,2024-01-17
+73,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,mobile_app,2024-12-08
+74,Really pleased with how the team handled my fraud complaint. Perfect!,1,service,2024-11-22
+75,Hidden fees that were never disclosed at account opening. Disgusting. Avoid this bank!,0,service,2023-07-19
+76,"Horrible experience, waited 45 minutes just to speak to someone.",0,fees,2024-01-27
+77,"Friendly staff, efficient service. Will definitely stay with this bank.",1,support,2023-04-21
+78,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,mobile_app,2024-04-26
+79,The customer service was excellent and very professional. Highly recommend!,1,service,2023-10-31
+80,The ATM ate my card and nobody could help me. Disaster.,0,loan,2023-01-12
+81,The app keeps crashing and I cannot access my account. Zero stars.,0,loan,2024-08-04
+82,Interest rate changed without warning. Feels like fraud.,0,loan,2023-12-12
+83,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,service,2024-11-25
+84,The interest rates are competitive and the account setup was easy.,1,support,2024-07-10
+85,Excellent communication throughout my loan application. Thank you! Five stars!,1,support,2024-05-13
+86,"I am very satisfied with the loan process, it was smooth and fast.",1,mobile_app,2024-04-23
+87,My mortgage was approved quickly. Very happy with the process. Five stars!,1,loan,2024-11-28
+88,"Quick response from the support team, highly recommend this bank. Five stars!",1,fees,2023-08-12
+89,Excellent communication throughout my loan application. Thank you! Perfect!,1,mobile_app,2024-10-08
+90,Overcharged three times this month. No resolution after two calls.,0,fees,2024-08-14
+91,Excellent communication throughout my loan application. Thank you! Highly recommend!,1,service,2024-03-22
+92,"Quick response from the support team, highly recommend this bank. Highly recommend!",1,fees,2023-09-24
+93,Excellent communication throughout my loan application. Thank you!,1,service,2023-06-07
+94,Transfer failed but money was deducted. Still waiting for refund.,0,card_issues,2024-03-09
+95,Excellent communication throughout my loan application. Thank you! Five stars!,1,fees,2023-12-27
+96,Customer service is rude and unhelpful. Will be switching banks. Avoid this bank!,0,app_issues,2024-08-23
+97,Excellent communication throughout my loan application. Thank you! Five stars!,1,fees,2023-08-29
+98,"Quick response from the support team, highly recommend this bank. Highly recommend!",1,loan,
+99,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,fees,2024-01-16
+100,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,service,2023-03-12
+101,Fast and reliable service. My card issue was resolved same day. Perfect!,1,fees,
+102,Excellent communication throughout my loan application. Thank you! Perfect!,1,mobile_app,2024-01-10
+103,"Friendly staff, efficient service. Will definitely stay with this bank.",1,fees,2023-08-20
+104,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,loan,2023-11-29
+105,Customer service is rude and unhelpful. Will be switching banks.,0,loan,2024-01-14
+106,Decent mobile app but missing some features I need.,1,card_issues,2023-08-28
+107,My card was blocked without any notification. Very frustrated.,0,app_issues,2023-11-05
+108,The customer service was excellent and very professional.,1,support,2023-06-23
+109,"Standard experience, similar to other banks.",0,loan,2023-10-09
+110,Customer service is rude and unhelpful. Will be switching banks. Zero stars.,0,card_issues,2024-08-18
+111,Overcharged three times this month. No resolution after two calls.,0,service,2024-11-13
+112,Great experience! The staff resolved my issue within minutes. Highly recommend!,1,loan,2024-06-15
+113,Staff at the branch were dismissive and made me feel unwelcome. Zero stars.,0,fees,2024-10-25
+114,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,card_issues,
+115,"Service is okay, not great but acceptable.",1,service,2023-07-05
+116,Really pleased with how the team handled my fraud complaint.,1,support,2024-03-23
+117,Overcharged three times this month. No resolution after two calls.,0,service,2023-10-04
+118,My card was blocked without any notification. Very frustrated.,0,app_issues,2023-07-21
+119,"Online banking app works perfectly, love the new features. Perfect!",1,support,2023-06-29
+120,Excellent communication throughout my loan application. Thank you! Five stars!,1,mobile_app,2024-10-26
+121,"Online banking app works perfectly, love the new features.",1,service,2024-03-28
+122,Customer service is rude and unhelpful. Will be switching banks.,0,loan,2023-08-28
+123,"Service is okay, not great but acceptable.",1,service,2023-05-24
+124,Really pleased with how the team handled my fraud complaint. Five stars!,1,loan,2024-04-09
+125,"Online banking app works perfectly, love the new features. Five stars!",1,service,
+126,The mobile app is intuitive and I can manage everything easily.,1,fees,2024-06-02
+127,Interest rate changed without warning. Feels like fraud.,0,card_issues,2023-08-11
+128,"Average bank, nothing special but gets the job done.",1,fees,2023-04-12
+129,Transferred money internationally without any issues. Great service! Highly recommend!,1,loan,2024-06-20
+130,"Average bank, nothing special but gets the job done.",0,card_issues,2023-01-06
+131,Loan rejection with no explanation given. Terrible service.,0,app_issues,2024-04-17
+132,Excellent communication throughout my loan application. Thank you! Perfect!,1,loan,2023-02-07
+133,"Online banking app works perfectly, love the new features. Five stars!",1,loan,2023-05-22
+134,"Service is okay, not great but acceptable.",0,mobile_app,2023-03-07
+135,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,support,2024-09-09
+136,"Average bank, nothing special but gets the job done.",1,fees,2023-05-31
+137,Really pleased with how the team handled my fraud complaint. Five stars!,1,fees,2023-09-11
+138,"Standard experience, similar to other banks.",1,service,2023-02-03
+139,Customer service is rude and unhelpful. Will be switching banks. Zero stars.,0,app_issues,
+140,"I am very satisfied with the loan process, it was smooth and fast. Perfect!",1,support,2023-07-26
+141,"Horrible experience, waited 45 minutes just to speak to someone. Zero stars.",0,app_issues,2024-11-06
+142,Transferred money internationally without any issues. Great service!,1,fees,2024-04-24
+143,Transferred money internationally without any issues. Great service! Five stars!,1,mobile_app,2024-08-25
+144,Loan rejection with no explanation given. Terrible service.,0,loan,2024-02-09
+145,My mortgage was approved quickly. Very happy with the process.,1,support,2023-07-21
+146,My card was blocked without any notification. Very frustrated.,0,app_issues,2024-03-21
+147,Transferred money internationally without any issues. Great service!,1,mobile_app,2024-02-10
+148,Great experience! The staff resolved my issue within minutes.,1,loan,2024-08-09
+149,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,card_issues,2023-06-10
+150,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,mobile_app,2023-09-03
+151,"Horrible experience, waited 45 minutes just to speak to someone. Zero stars.",0,loan,2024-08-13
+152,My mortgage was approved quickly. Very happy with the process. Perfect!,1,mobile_app,2023-09-16
+153,"Online banking app works perfectly, love the new features. Highly recommend!",1,service,2024-07-07
+154,"I am very satisfied with the loan process, it was smooth and fast. Highly recommend!",1,mobile_app,2024-05-11
+155,Excellent communication throughout my loan application. Thank you! Five stars!,1,fees,2023-08-14
+156,Fast and reliable service. My card issue was resolved same day. Perfect!,1,fees,2024-05-12
+157,The customer service was excellent and very professional.,1,mobile_app,2023-08-18
+158,Overcharged three times this month. No resolution after two calls.,0,service,2024-08-06
+159,The mobile app is intuitive and I can manage everything easily. Perfect!,1,mobile_app,2023-03-21
+160,"Online banking app works perfectly, love the new features. Highly recommend!",1,fees,2024-11-08
+161,Overcharged three times this month. No resolution after two calls. Zero stars.,0,app_issues,2023-12-15
+162,The branch is fine but the wait times could be shorter.,1,,2023-09-23
+163,Interest rate changed without warning. Feels like fraud. Zero stars.,0,service,2024-02-27
+164,Transferred money internationally without any issues. Great service! Perfect!,1,service,2024-07-07
+165,The branch is fine but the wait times could be shorter.,1,app_issues,2024-12-05
+166,Fast and reliable service. My card issue was resolved same day. Five stars!,1,service,2024-06-08
+167,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,fees,2023-07-12
+168,Waited 3 weeks for a simple document. Completely unacceptable.,0,card_issues,2024-09-20
+169,Loan rejection with no explanation given. Terrible service.,0,fees,2024-03-13
+170,Great experience! The staff resolved my issue within minutes. Perfect!,1,fees,2024-04-20
+171,"Average bank, nothing special but gets the job done.",1,loan,2023-09-06
+172,The interest rates are competitive and the account setup was easy. Highly recommend!,1,loan,2023-07-10
+173,The ATM ate my card and nobody could help me. Disaster. Zero stars.,0,app_issues,2023-05-11
+174,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,service,2023-02-21
+175,"Friendly staff, efficient service. Will definitely stay with this bank.",1,support,2023-09-12
+176,Transfer failed but money was deducted. Still waiting for refund. Avoid this bank!,0,service,2024-05-09
+177,Hidden fees that were never disclosed at account opening. Disgusting. Avoid this bank!,0,fees,2024-01-04
+178,The app keeps crashing and I cannot access my account.,0,service,2023-01-23
+179,Transferred money internationally without any issues. Great service! Highly recommend!,1,service,2023-02-24
+180,"Average bank, nothing special but gets the job done.",1,service,2023-06-15
+181,Interest rate changed without warning. Feels like fraud.,0,card_issues,2023-02-19
+182,"Average bank, nothing special but gets the job done.",1,app_issues,2023-11-19
+183,Really pleased with how the team handled my fraud complaint. Five stars!,1,service,2024-02-16
+184,Great experience! The staff resolved my issue within minutes. Perfect!,1,fees,2023-07-20
+185,The mobile app is intuitive and I can manage everything easily. Highly recommend!,1,,2024-01-24
+186,Loan rejection with no explanation given. Terrible service.,0,fees,2023-02-15
+187,Worst bank ever. Every interaction is a nightmare. Zero stars.,0,card_issues,2024-06-23
+188,"Horrible experience, waited 45 minutes just to speak to someone.",0,service,2023-01-22
+189,"I am very satisfied with the loan process, it was smooth and fast. Perfect!",1,loan,2023-11-22
+190,The customer service was excellent and very professional. Five stars!,1,service,2023-07-21
+191,Fast and reliable service. My card issue was resolved same day. Five stars!,1,support,2023-01-17
+192,The branch is fine but the wait times could be shorter.,0,support,2024-11-30
+193,"Quick response from the support team, highly recommend this bank. Five stars!",1,service,2024-07-19
+194,Interest rate changed without warning. Feels like fraud.,0,app_issues,2024-02-13
+195,Decent mobile app but missing some features I need.,1,,2023-04-21
+196,"Standard experience, similar to other banks.",0,loan,2023-12-10
+197,The ATM ate my card and nobody could help me. Disaster. Avoid this bank!,0,service,2023-11-30
+198,The app keeps crashing and I cannot access my account. Zero stars.,0,service,2024-03-29
+199,Best bank I have ever used. Transparent fees and excellent support.,1,support,2023-11-06
+200,"Average bank, nothing special but gets the job done.",0,loan,2023-04-10
+201,"Friendly staff, efficient service. Will definitely stay with this bank. Perfect!",1,mobile_app,2024-01-21
+202,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,loan,2023-06-18
+203,The mobile app is intuitive and I can manage everything easily. Perfect!,1,service,2024-05-27
+204,Staff at the branch were dismissive and made me feel unwelcome. Zero stars.,0,fees,2023-05-18
+205,Excellent communication throughout my loan application. Thank you! Perfect!,1,loan,2024-03-31
+206,Transfer failed but money was deducted. Still waiting for refund.,0,app_issues,2024-02-27
+207,"Average bank, nothing special but gets the job done.",1,service,2023-06-18
+208,"Service is okay, not great but acceptable.",0,mobile_app,2023-12-13
+209,Interest rate changed without warning. Feels like fraud. Zero stars.,0,app_issues,2023-02-26
+210,"Online banking app works perfectly, love the new features. Highly recommend!",1,loan,2024-05-15
+211,My card was blocked without any notification. Very frustrated.,0,app_issues,2024-01-13
+212,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,loan,2023-11-12
+213,Decent mobile app but missing some features I need.,0,support,2023-09-27
+214,Cannot reach anyone on the phone. Automated system is useless.,0,card_issues,2024-12-23
+215,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,card_issues,2024-05-10
+216,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,loan,2024-07-14
+217,"Average bank, nothing special but gets the job done.",1,service,2023-07-30
+218,Transferred money internationally without any issues. Great service! Five stars!,1,service,2023-05-13
+219,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,app_issues,2023-08-26
+220,"Quick response from the support team, highly recommend this bank. Five stars!",1,fees,2023-06-22
+221,The interest rates are competitive and the account setup was easy. Perfect!,1,loan,2024-02-13
+222,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,fees,2023-07-28
+223,Staff at the branch were dismissive and made me feel unwelcome. Zero stars.,0,app_issues,2023-09-01
+224,Loan rejection with no explanation given. Terrible service. Zero stars.,0,service,2024-01-28
+225,"Standard experience, similar to other banks.",1,card_issues,
+226,Decent mobile app but missing some features I need.,1,mobile_app,2024-02-19
+227,The interest rates are competitive and the account setup was easy. Perfect!,1,support,2023-11-11
+228,My mortgage was approved quickly. Very happy with the process.,1,mobile_app,2024-05-19
+229,The app keeps crashing and I cannot access my account.,0,fees,2024-06-06
+230,The ATM ate my card and nobody could help me. Disaster. Zero stars.,0,app_issues,2023-02-23
+231,Overcharged three times this month. No resolution after two calls.,0,app_issues,2024-02-22
+232,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,loan,2024-10-25
+233,Great experience! The staff resolved my issue within minutes. Highly recommend!,1,mobile_app,2024-11-13
+234,Customer service is rude and unhelpful. Will be switching banks.,0,service,2024-08-19
+235,My card was blocked without any notification. Very frustrated.,0,card_issues,2024-07-26
+236,My card was blocked without any notification. Very frustrated.,0,fees,2024-11-04
+237,Worst bank ever. Every interaction is a nightmare. Zero stars.,0,app_issues,
+238,"Standard experience, similar to other banks.",0,fees,2023-03-25
+239,Worst bank ever. Every interaction is a nightmare.,0,card_issues,2023-10-09
+240,Really pleased with how the team handled my fraud complaint. Perfect!,1,mobile_app,2024-11-27
+241,Customer service is rude and unhelpful. Will be switching banks. Zero stars.,0,loan,2024-07-15
+242,The app keeps crashing and I cannot access my account.,0,fees,2023-04-21
+243,Worst bank ever. Every interaction is a nightmare. Avoid this bank!,0,loan,2024-06-22
+244,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,fees,2024-08-13
+245,Transferred money internationally without any issues. Great service! Perfect!,1,fees,2024-01-27
+246,Really pleased with how the team handled my fraud complaint.,1,mobile_app,2024-02-24
+247,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,app_issues,2024-09-29
+248,The interest rates are competitive and the account setup was easy.,1,loan,2023-10-07
+249,My card was blocked without any notification. Very frustrated. Zero stars.,0,app_issues,2024-06-07
+250,Customer service is rude and unhelpful. Will be switching banks.,0,card_issues,2024-07-19
+251,Best bank I have ever used. Transparent fees and excellent support.,1,,2024-09-30
+252,"Average bank, nothing special but gets the job done.",0,loan,2023-12-22
+253,Loan rejection with no explanation given. Terrible service. Zero stars.,0,loan,2023-02-19
+254,"I am very satisfied with the loan process, it was smooth and fast. Highly recommend!",1,service,2023-10-10
+255,Cannot reach anyone on the phone. Automated system is useless.,0,app_issues,2023-12-02
+256,The customer service was excellent and very professional. Five stars!,1,loan,2023-07-04
+257,The mobile app is intuitive and I can manage everything easily.,1,support,2024-05-29
+258,The app keeps crashing and I cannot access my account. Avoid this bank!,0,app_issues,2023-11-01
+259,Excellent communication throughout my loan application. Thank you!,1,loan,2023-09-19
+260,"I am very satisfied with the loan process, it was smooth and fast. Five stars!",1,,2023-01-12
+261,Overcharged three times this month. No resolution after two calls. Zero stars.,0,app_issues,2024-08-22
+262,"I am very satisfied with the loan process, it was smooth and fast.",1,fees,2024-10-13
+263,The interest rates are competitive and the account setup was easy. Five stars!,1,loan,2023-02-23
+264,"Standard experience, similar to other banks.",1,mobile_app,
+265,"I am very satisfied with the loan process, it was smooth and fast. Perfect!",1,fees,2024-07-19
+266,Fast and reliable service. My card issue was resolved same day. Five stars!,1,fees,2024-07-19
+267,Customer service is rude and unhelpful. Will be switching banks. Avoid this bank!,0,loan,2023-08-16
+268,Interest rate changed without warning. Feels like fraud.,0,service,2024-04-13
+269,"Quick response from the support team, highly recommend this bank. Five stars!",1,mobile_app,2024-12-21
+270,Transfer failed but money was deducted. Still waiting for refund. Avoid this bank!,0,app_issues,2024-11-21
+271,Customer service is rude and unhelpful. Will be switching banks.,0,card_issues,2024-02-12
+272,Transferred money internationally without any issues. Great service! Five stars!,1,mobile_app,2024-09-29
+273,The customer service was excellent and very professional.,1,fees,2023-07-05
+274,"Horrible experience, waited 45 minutes just to speak to someone. Zero stars.",0,fees,2023-04-13
+275,"Online banking app works perfectly, love the new features. Highly recommend!",1,mobile_app,2023-09-07
+276,The ATM ate my card and nobody could help me. Disaster.,0,card_issues,2024-04-22
+277,Interest rate changed without warning. Feels like fraud. Avoid this bank!,0,fees,2023-12-30
+278,"Horrible experience, waited 45 minutes just to speak to someone.",0,card_issues,2023-04-18
+279,Waited 3 weeks for a simple document. Completely unacceptable.,0,fees,2023-08-12
+280,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,fees,2023-03-03
+281,Interest rate changed without warning. Feels like fraud.,0,,2023-05-24
+282,The ATM ate my card and nobody could help me. Disaster.,0,loan,2024-12-21
+283,Waited 3 weeks for a simple document. Completely unacceptable.,0,service,2024-09-26
+284,Really pleased with how the team handled my fraud complaint.,1,support,2024-04-26
+285,Really pleased with how the team handled my fraud complaint.,1,support,2023-02-06
+286,Really pleased with how the team handled my fraud complaint. Perfect!,1,support,2024-10-06
+287,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,loan,2024-08-29
+288,"Average bank, nothing special but gets the job done.",0,loan,2024-06-13
+289,"I am very satisfied with the loan process, it was smooth and fast. Perfect!",1,loan,2023-09-10
+290,The customer service was excellent and very professional. Perfect!,1,,2024-07-30
+291,"I am very satisfied with the loan process, it was smooth and fast. Perfect!",1,fees,2024-05-14
+292,The interest rates are competitive and the account setup was easy. Perfect!,1,mobile_app,2023-09-19
+293,"Friendly staff, efficient service. Will definitely stay with this bank. Perfect!",1,support,2023-12-22
+294,The ATM ate my card and nobody could help me. Disaster.,0,loan,2024-11-21
+295,The interest rates are competitive and the account setup was easy.,1,support,2023-12-23
+296,Transferred money internationally without any issues. Great service! Highly recommend!,1,mobile_app,2024-07-20
+297,Decent mobile app but missing some features I need.,1,fees,2023-12-28
+298,The customer service was excellent and very professional.,1,support,2024-07-30
+299,Decent mobile app but missing some features I need.,1,card_issues,2024-09-08
+300,Cannot reach anyone on the phone. Automated system is useless.,0,app_issues,2023-01-16
+301,Great experience! The staff resolved my issue within minutes. Highly recommend!,1,,2023-02-07
+302,The interest rates are competitive and the account setup was easy. Highly recommend!,1,fees,2023-07-24
+303,Waited 3 weeks for a simple document. Completely unacceptable.,0,,2024-05-21
+304,Transferred money internationally without any issues. Great service! Five stars!,1,loan,2024-02-14
+305,The app keeps crashing and I cannot access my account.,0,fees,2023-08-08
+306,Best bank I have ever used. Transparent fees and excellent support.,1,loan,2023-10-25
+307,Excellent communication throughout my loan application. Thank you!,1,fees,2023-12-23
+308,"Horrible experience, waited 45 minutes just to speak to someone.",0,fees,2023-08-02
+309,The branch is fine but the wait times could be shorter.,1,service,2024-09-11
+310,Customer service is rude and unhelpful. Will be switching banks.,0,loan,2023-04-26
+311,The interest rates are competitive and the account setup was easy. Perfect!,1,service,2023-10-20
+312,Excellent communication throughout my loan application. Thank you!,1,support,2024-08-11
+313,Loan rejection with no explanation given. Terrible service. Avoid this bank!,0,loan,2024-02-02
+314,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,loan,2024-05-12
+315,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,fees,2024-05-29
+316,Overcharged three times this month. No resolution after two calls.,0,app_issues,2024-11-19
+317,The branch is fine but the wait times could be shorter.,0,loan,2024-12-18
+318,Customer service is rude and unhelpful. Will be switching banks. Avoid this bank!,0,fees,
+319,The interest rates are competitive and the account setup was easy. Highly recommend!,1,fees,2024-08-17
+320,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,support,2023-09-03
+321,Transferred money internationally without any issues. Great service!,1,service,2023-12-03
+322,Transfer failed but money was deducted. Still waiting for refund. Avoid this bank!,0,fees,2023-02-01
+323,My mortgage was approved quickly. Very happy with the process. Perfect!,1,service,2023-03-08
+324,Loan rejection with no explanation given. Terrible service. Avoid this bank!,0,app_issues,2024-10-04
+325,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,loan,2023-08-27
+326,My mortgage was approved quickly. Very happy with the process. Perfect!,1,fees,2023-10-31
+327,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,fees,2024-08-04
+328,"Friendly staff, efficient service. Will definitely stay with this bank. Highly recommend!",1,mobile_app,2023-12-15
+329,Really pleased with how the team handled my fraud complaint.,1,service,2023-05-16
+330,Great experience! The staff resolved my issue within minutes. Five stars!,1,mobile_app,2024-10-21
+331,The app keeps crashing and I cannot access my account. Zero stars.,0,fees,2023-02-07
+332,"I am very satisfied with the loan process, it was smooth and fast.",1,,2023-01-01
+333,Transfer failed but money was deducted. Still waiting for refund.,0,service,2024-01-29
+334,Fast and reliable service. My card issue was resolved same day.,1,service,2024-12-12
+335,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,support,2024-07-06
+336,Hidden fees that were never disclosed at account opening. Disgusting. Zero stars.,0,card_issues,2024-11-24
+337,Great experience! The staff resolved my issue within minutes. Perfect!,1,loan,2023-02-17
+338,Cannot reach anyone on the phone. Automated system is useless.,0,,2023-11-11
+339,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,loan,2024-02-24
+340,Interest rate changed without warning. Feels like fraud. Avoid this bank!,0,loan,2023-02-02
+341,Decent mobile app but missing some features I need.,0,loan,2024-01-25
+342,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,app_issues,
+343,Hidden fees that were never disclosed at account opening. Disgusting.,0,loan,2024-11-29
+344,Great experience! The staff resolved my issue within minutes. Perfect!,1,fees,2023-04-03
+345,My mortgage was approved quickly. Very happy with the process. Five stars!,1,service,2023-01-29
+346,Worst bank ever. Every interaction is a nightmare.,0,fees,2024-04-19
+347,Hidden fees that were never disclosed at account opening. Disgusting.,0,,2023-02-24
+348,My mortgage was approved quickly. Very happy with the process. Perfect!,1,service,2023-07-31
+349,The branch is fine but the wait times could be shorter.,0,support,2024-04-09
+350,Fast and reliable service. My card issue was resolved same day.,1,service,2023-03-11
+351,The branch is fine but the wait times could be shorter.,1,fees,2023-10-03
+352,"Horrible experience, waited 45 minutes just to speak to someone.",0,fees,2024-10-24
+353,Decent mobile app but missing some features I need.,0,loan,2024-01-01
+354,The mobile app is intuitive and I can manage everything easily. Highly recommend!,1,loan,2024-06-09
+355,"Service is okay, not great but acceptable.",0,support,2023-04-06
+356,My mortgage was approved quickly. Very happy with the process. Perfect!,1,loan,2024-07-29
+357,"Average bank, nothing special but gets the job done.",1,,2023-06-11
+358,"Standard experience, similar to other banks.",1,loan,2024-07-02
+359,"Online banking app works perfectly, love the new features. Five stars!",1,mobile_app,2023-02-20
+360,Excellent communication throughout my loan application. Thank you! Five stars!,1,loan,2024-07-21
+361,My card was blocked without any notification. Very frustrated.,0,card_issues,
+362,The mobile app is intuitive and I can manage everything easily.,1,mobile_app,2023-07-13
+363,The interest rates are competitive and the account setup was easy. Highly recommend!,1,loan,2024-01-19
+364,"Quick response from the support team, highly recommend this bank. Perfect!",1,service,2023-12-24
+365,"Average bank, nothing special but gets the job done.",1,service,2024-09-15
+366,Best bank I have ever used. Transparent fees and excellent support.,1,service,2023-01-12
+367,My card was blocked without any notification. Very frustrated. Zero stars.,0,card_issues,2024-05-16
+368,Transferred money internationally without any issues. Great service! Perfect!,1,support,2024-09-20
+369,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,service,2024-07-29
+370,Excellent communication throughout my loan application. Thank you!,1,support,2024-04-24
+371,"Standard experience, similar to other banks.",0,support,2023-01-01
+372,The customer service was excellent and very professional. Highly recommend!,1,mobile_app,2024-09-28
+373,The app keeps crashing and I cannot access my account. Avoid this bank!,0,card_issues,2024-01-12
+374,My mortgage was approved quickly. Very happy with the process.,1,loan,2023-02-04
+375,Overcharged three times this month. No resolution after two calls.,0,loan,2023-05-04
+376,My mortgage was approved quickly. Very happy with the process. Five stars!,1,fees,2023-12-09
+377,"Online banking app works perfectly, love the new features. Highly recommend!",1,service,2023-01-05
+378,Loan rejection with no explanation given. Terrible service.,0,service,2023-08-05
+379,Loan rejection with no explanation given. Terrible service.,0,service,2024-04-06
+380,Great experience! The staff resolved my issue within minutes. Highly recommend!,1,fees,2023-01-03
+381,The app keeps crashing and I cannot access my account. Zero stars.,0,card_issues,2024-05-11
+382,"Online banking app works perfectly, love the new features. Highly recommend!",1,service,2023-11-04
+383,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,fees,2023-06-03
+384,Hidden fees that were never disclosed at account opening. Disgusting. Zero stars.,0,,2024-11-27
+385,"Quick response from the support team, highly recommend this bank.",1,,2023-01-15
+386,Transfer failed but money was deducted. Still waiting for refund.,0,fees,2024-02-16
+387,"Quick response from the support team, highly recommend this bank. Highly recommend!",1,service,2024-08-16
+388,The interest rates are competitive and the account setup was easy. Five stars!,1,service,2024-07-05
+389,Transferred money internationally without any issues. Great service! Five stars!,1,mobile_app,2024-04-01
+390,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,service,2023-04-22
+391,The interest rates are competitive and the account setup was easy. Five stars!,1,support,2023-06-28
+392,Interest rate changed without warning. Feels like fraud. Zero stars.,0,fees,2023-11-08
+393,Hidden fees that were never disclosed at account opening. Disgusting.,0,fees,2024-01-13
+394,The mobile app is intuitive and I can manage everything easily. Five stars!,1,support,2023-04-14
+395,"Standard experience, similar to other banks.",0,fees,2024-08-03
+396,The ATM ate my card and nobody could help me. Disaster.,0,service,2023-09-07
+397,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,service,2024-03-29
+398,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,support,2024-06-27
+399,Best bank I have ever used. Transparent fees and excellent support.,1,,2023-04-17
+400,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,fees,2024-09-28
+401,"Friendly staff, efficient service. Will definitely stay with this bank.",1,fees,2024-01-16
+402,Loan rejection with no explanation given. Terrible service. Zero stars.,0,fees,2023-04-11
+403,Waited 3 weeks for a simple document. Completely unacceptable.,0,app_issues,2024-01-04
+404,Worst bank ever. Every interaction is a nightmare.,0,loan,2023-01-26
+405,The app keeps crashing and I cannot access my account. Avoid this bank!,0,app_issues,2023-02-05
+406,Staff at the branch were dismissive and made me feel unwelcome.,0,card_issues,2023-11-25
+407,Decent mobile app but missing some features I need.,0,service,
+408,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,support,2024-02-10
+409,The mobile app is intuitive and I can manage everything easily.,1,loan,
+410,Decent mobile app but missing some features I need.,0,service,2023-03-09
+411,"Quick response from the support team, highly recommend this bank. Perfect!",1,mobile_app,2023-11-17
+412,The ATM ate my card and nobody could help me. Disaster.,0,fees,2024-01-05
+413,My card was blocked without any notification. Very frustrated.,0,fees,2024-07-30
+414,The interest rates are competitive and the account setup was easy. Perfect!,1,support,2023-06-12
+415,The branch is fine but the wait times could be shorter.,1,fees,2024-03-01
+416,The app keeps crashing and I cannot access my account. Avoid this bank!,0,card_issues,2023-04-23
+417,The customer service was excellent and very professional. Five stars!,1,,2023-02-15
+418,Decent mobile app but missing some features I need.,0,loan,
+419,"Online banking app works perfectly, love the new features.",1,support,2024-08-18
+420,Interest rate changed without warning. Feels like fraud.,0,loan,2024-10-27
+421,The customer service was excellent and very professional. Five stars!,1,support,2024-07-06
+422,Transfer failed but money was deducted. Still waiting for refund. Avoid this bank!,0,fees,2024-04-18
+423,Worst bank ever. Every interaction is a nightmare.,0,app_issues,2024-11-26
+424,The app keeps crashing and I cannot access my account.,0,card_issues,2024-04-03
+425,Overcharged three times this month. No resolution after two calls. Zero stars.,0,app_issues,2024-06-01
+426,The interest rates are competitive and the account setup was easy.,1,service,2024-06-16
+427,My mortgage was approved quickly. Very happy with the process. Perfect!,1,support,2024-09-03
+428,The interest rates are competitive and the account setup was easy. Highly recommend!,1,fees,2024-06-17
+429,Fast and reliable service. My card issue was resolved same day. Perfect!,1,mobile_app,2023-10-30
+430,Decent mobile app but missing some features I need.,1,service,2023-07-03
+431,Overcharged three times this month. No resolution after two calls.,0,loan,2024-11-28
+432,Staff at the branch were dismissive and made me feel unwelcome.,0,service,2023-12-23
+433,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,card_issues,2023-06-09
+434,The interest rates are competitive and the account setup was easy.,1,service,2023-07-29
+435,"Online banking app works perfectly, love the new features.",1,mobile_app,
+436,Overcharged three times this month. No resolution after two calls.,0,loan,2023-04-24
+437,Cannot reach anyone on the phone. Automated system is useless.,0,loan,2024-11-12
+438,Cannot reach anyone on the phone. Automated system is useless. Zero stars.,0,loan,2024-01-07
+439,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,loan,2023-03-30
+440,Fast and reliable service. My card issue was resolved same day.,1,fees,2023-07-07
+441,Cannot reach anyone on the phone. Automated system is useless. Avoid this bank!,0,app_issues,2023-08-18
+442,"Friendly staff, efficient service. Will definitely stay with this bank. Five stars!",1,fees,2023-03-10
+443,Best bank I have ever used. Transparent fees and excellent support.,1,loan,2024-09-19
+444,My card was blocked without any notification. Very frustrated. Zero stars.,0,app_issues,2024-07-16
+445,Great experience! The staff resolved my issue within minutes. Perfect!,1,support,2023-01-28
+446,Worst bank ever. Every interaction is a nightmare. Avoid this bank!,0,app_issues,2024-12-12
+447,Great experience! The staff resolved my issue within minutes. Perfect!,1,fees,2024-06-02
+448,Worst bank ever. Every interaction is a nightmare. Zero stars.,0,fees,2024-08-02
+449,"Horrible experience, waited 45 minutes just to speak to someone. Zero stars.",0,app_issues,2023-07-06
+450,Loan rejection with no explanation given. Terrible service. Zero stars.,0,card_issues,
+451,Excellent communication throughout my loan application. Thank you! Perfect!,1,loan,2023-01-26
+452,The app keeps crashing and I cannot access my account. Zero stars.,0,card_issues,2023-07-06
+453,"Standard experience, similar to other banks.",0,support,2023-11-24
+454,Transferred money internationally without any issues. Great service! Perfect!,1,service,2024-06-12
+455,The branch is fine but the wait times could be shorter.,0,support,2023-11-09
+456,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,loan,2023-08-11
+457,My card was blocked without any notification. Very frustrated.,0,loan,2023-06-22
+458,The branch is fine but the wait times could be shorter.,0,loan,2023-06-16
+459,Loan rejection with no explanation given. Terrible service.,0,card_issues,2023-06-24
+460,Hidden fees that were never disclosed at account opening. Disgusting. Avoid this bank!,0,service,2023-09-07
+461,My mortgage was approved quickly. Very happy with the process.,1,support,2024-07-08
+462,Fast and reliable service. My card issue was resolved same day. Perfect!,1,mobile_app,2024-03-13
+463,The interest rates are competitive and the account setup was easy. Highly recommend!,1,mobile_app,2023-04-22
+464,The branch is fine but the wait times could be shorter.,0,card_issues,2023-09-03
+465,Hidden fees that were never disclosed at account opening. Disgusting. Zero stars.,0,card_issues,2023-11-23
+466,"Friendly staff, efficient service. Will definitely stay with this bank. Perfect!",1,support,2024-11-09
+467,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,,2024-06-15
+468,Transfer failed but money was deducted. Still waiting for refund. Zero stars.,0,service,2024-08-21
+469,Overcharged three times this month. No resolution after two calls. Zero stars.,0,service,2024-03-16
+470,Waited 3 weeks for a simple document. Completely unacceptable.,0,app_issues,2024-09-09
+471,Overcharged three times this month. No resolution after two calls. Avoid this bank!,0,card_issues,2024-10-23
+472,Excellent communication throughout my loan application. Thank you! Five stars!,1,fees,2023-04-06
+473,The interest rates are competitive and the account setup was easy.,1,loan,2024-05-02
+474,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,support,2024-02-20
+475,"Horrible experience, waited 45 minutes just to speak to someone. Zero stars.",0,fees,2024-10-07
+476,Transferred money internationally without any issues. Great service! Highly recommend!,1,mobile_app,2024-09-13
+477,Waited 3 weeks for a simple document. Completely unacceptable.,0,app_issues,2023-08-28
+478,Waited 3 weeks for a simple document. Completely unacceptable. Zero stars.,0,loan,2024-03-29
+479,The app keeps crashing and I cannot access my account. Avoid this bank!,0,card_issues,2023-01-27
+480,The interest rates are competitive and the account setup was easy. Five stars!,1,service,2023-04-17
+481,The branch is fine but the wait times could be shorter.,0,card_issues,2023-09-29
+482,The ATM ate my card and nobody could help me. Disaster. Avoid this bank!,0,loan,2024-05-23
+483,Interest rate changed without warning. Feels like fraud.,0,app_issues,2024-08-14
+484,Transferred money internationally without any issues. Great service!,1,support,2023-12-14
+485,"Friendly staff, efficient service. Will definitely stay with this bank. Perfect!",1,service,2024-04-09
+486,"Online banking app works perfectly, love the new features. Five stars!",1,loan,2023-05-04
+487,Fast and reliable service. My card issue was resolved same day.,1,,2024-11-22
+488,"Quick response from the support team, highly recommend this bank.",1,,2023-11-19
+489,"Average bank, nothing special but gets the job done.",0,app_issues,2023-03-22
+490,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,card_issues,2023-02-26
+491,Really pleased with how the team handled my fraud complaint. Five stars!,1,loan,2023-08-15
+492,The branch is fine but the wait times could be shorter.,1,service,2024-08-31
+493,"Online banking app works perfectly, love the new features. Five stars!",1,mobile_app,2023-03-30
+494,The branch is fine but the wait times could be shorter.,0,service,2023-08-22
+495,Staff at the branch were dismissive and made me feel unwelcome.,0,card_issues,2023-06-29
+496,"Quick response from the support team, highly recommend this bank.",1,service,2023-02-24
+497,Decent mobile app but missing some features I need.,1,support,2024-07-31
+498,Waited 3 weeks for a simple document. Completely unacceptable. Zero stars.,0,service,2023-02-12
+499,Great experience! The staff resolved my issue within minutes. Five stars!,1,mobile_app,2023-11-03
+500,Staff at the branch were dismissive and made me feel unwelcome.,0,fees,2024-10-03
+501,The branch is fine but the wait times could be shorter.,1,service,2024-08-16
+502,The branch is fine but the wait times could be shorter.,0,fees,2024-09-05
+503,"Service is okay, not great but acceptable.",1,fees,2024-02-21
+504,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,fees,2024-03-27
+505,Excellent communication throughout my loan application. Thank you! Five stars!,1,mobile_app,2024-10-21
+506,Worst bank ever. Every interaction is a nightmare.,0,service,2024-05-10
+507,Fast and reliable service. My card issue was resolved same day. Perfect!,1,mobile_app,2024-06-03
+508,The interest rates are competitive and the account setup was easy.,1,loan,2024-08-29
+509,"Horrible experience, waited 45 minutes just to speak to someone.",0,service,2023-04-10
+510,"Quick response from the support team, highly recommend this bank.",1,mobile_app,2023-08-13
+511,Worst bank ever. Every interaction is a nightmare.,0,fees,2023-08-14
+512,Worst bank ever. Every interaction is a nightmare.,0,app_issues,2024-06-29
+513,"Standard experience, similar to other banks.",0,loan,2024-06-14
+514,The interest rates are competitive and the account setup was easy. Five stars!,1,service,2023-12-18
+515,The interest rates are competitive and the account setup was easy. Perfect!,1,loan,2024-10-24
+516,Transfer failed but money was deducted. Still waiting for refund.,0,loan,2023-01-05
+517,Worst bank ever. Every interaction is a nightmare.,0,card_issues,2023-04-08
+518,Overcharged three times this month. No resolution after two calls.,0,card_issues,2023-10-12
+519,Decent mobile app but missing some features I need.,0,service,2023-02-24
+520,"Online banking app works perfectly, love the new features.",1,support,2023-10-25
+521,The app keeps crashing and I cannot access my account. Zero stars.,0,fees,2024-09-10
+522,"Online banking app works perfectly, love the new features. Five stars!",1,service,2023-07-22
+523,Best bank I have ever used. Transparent fees and excellent support. Perfect!,1,support,2024-10-10
+524,Transfer failed but money was deducted. Still waiting for refund. Zero stars.,0,app_issues,2023-08-31
+525,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,,2024-09-04
+526,Decent mobile app but missing some features I need.,0,,2023-04-21
+527,My mortgage was approved quickly. Very happy with the process. Perfect!,1,support,2023-09-30
+528,Transferred money internationally without any issues. Great service! Perfect!,1,loan,2023-03-18
+529,The customer service was excellent and very professional.,1,loan,
+530,My card was blocked without any notification. Very frustrated. Avoid this bank!,0,app_issues,2024-02-29
+531,The app keeps crashing and I cannot access my account. Avoid this bank!,0,app_issues,2024-09-29
+532,My mortgage was approved quickly. Very happy with the process. Perfect!,1,fees,2024-09-24
+533,"Friendly staff, efficient service. Will definitely stay with this bank.",1,loan,2024-09-10
+534,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,support,2024-10-10
+535,"Horrible experience, waited 45 minutes just to speak to someone.",0,card_issues,2023-03-04
+536,Transfer failed but money was deducted. Still waiting for refund.,0,fees,2024-12-04
+537,Waited 3 weeks for a simple document. Completely unacceptable. Zero stars.,0,card_issues,2023-04-28
+538,Staff at the branch were dismissive and made me feel unwelcome.,0,service,2024-09-03
+539,Overcharged three times this month. No resolution after two calls.,0,card_issues,2024-10-29
+540,Great experience! The staff resolved my issue within minutes. Five stars!,1,loan,2023-07-17
+541,Transfer failed but money was deducted. Still waiting for refund. Zero stars.,0,loan,2024-10-10
+542,Hidden fees that were never disclosed at account opening. Disgusting.,0,card_issues,2024-02-23
+543,Loan rejection with no explanation given. Terrible service.,0,loan,2024-06-07
+544,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,fees,2024-02-09
+545,Fast and reliable service. My card issue was resolved same day. Perfect!,1,loan,2023-02-21
+546,Best bank I have ever used. Transparent fees and excellent support. Five stars!,1,fees,2024-07-27
+547,Loan rejection with no explanation given. Terrible service.,0,service,2023-07-20
+548,Cannot reach anyone on the phone. Automated system is useless.,0,card_issues,2023-05-17
+549,Interest rate changed without warning. Feels like fraud.,0,card_issues,2024-03-07
+550,Cannot reach anyone on the phone. Automated system is useless. Avoid this bank!,0,loan,2023-01-16
+551,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,service,2023-06-07
+552,"Average bank, nothing special but gets the job done.",0,loan,2023-11-01
+553,Overcharged three times this month. No resolution after two calls. Zero stars.,0,service,2023-08-31
+554,The mobile app is intuitive and I can manage everything easily. Five stars!,1,loan,2024-09-06
+555,"Quick response from the support team, highly recommend this bank. Perfect!",1,loan,2023-01-18
+556,The customer service was excellent and very professional. Perfect!,1,mobile_app,2023-02-27
+557,"Friendly staff, efficient service. Will definitely stay with this bank.",1,mobile_app,2024-05-01
+558,Cannot reach anyone on the phone. Automated system is useless. Avoid this bank!,0,app_issues,2024-03-25
+559,My card was blocked without any notification. Very frustrated.,0,service,2024-07-23
+560,The customer service was excellent and very professional. Five stars!,1,,2024-09-06
+561,My card was blocked without any notification. Very frustrated.,0,app_issues,2023-02-18
+562,Customer service is rude and unhelpful. Will be switching banks.,0,fees,2023-03-28
+563,Interest rate changed without warning. Feels like fraud. Avoid this bank!,0,card_issues,2023-03-15
+564,Cannot reach anyone on the phone. Automated system is useless.,0,fees,2023-01-31
+565,My card was blocked without any notification. Very frustrated.,0,app_issues,2024-01-27
+566,The customer service was excellent and very professional. Five stars!,1,support,2024-06-23
+567,Excellent communication throughout my loan application. Thank you! Perfect!,1,mobile_app,2024-03-06
+568,"I am very satisfied with the loan process, it was smooth and fast.",1,service,2024-02-10
+569,Great experience! The staff resolved my issue within minutes. Five stars!,1,support,2023-01-21
+570,Transfer failed but money was deducted. Still waiting for refund.,0,card_issues,2023-06-01
+571,"Standard experience, similar to other banks.",1,loan,2023-03-16
+572,"Friendly staff, efficient service. Will definitely stay with this bank.",1,mobile_app,2023-09-03
+573,Staff at the branch were dismissive and made me feel unwelcome. Zero stars.,0,fees,2023-08-28
+574,"Service is okay, not great but acceptable.",1,app_issues,2023-01-03
+575,My mortgage was approved quickly. Very happy with the process. Five stars!,1,loan,2024-04-27
+576,"Online banking app works perfectly, love the new features. Highly recommend!",1,loan,2023-08-04
+577,Really pleased with how the team handled my fraud complaint. Highly recommend!,1,mobile_app,2024-10-03
+578,Staff at the branch were dismissive and made me feel unwelcome.,0,card_issues,2023-01-14
+579,Fast and reliable service. My card issue was resolved same day. Highly recommend!,1,service,2024-09-15
+580,Worst bank ever. Every interaction is a nightmare.,0,loan,2024-08-19
+581,Interest rate changed without warning. Feels like fraud. Avoid this bank!,0,card_issues,2024-08-19
+582,Cannot reach anyone on the phone. Automated system is useless. Avoid this bank!,0,service,2023-08-24
+583,Loan rejection with no explanation given. Terrible service. Zero stars.,0,app_issues,2024-10-06
+584,Waited 3 weeks for a simple document. Completely unacceptable. Avoid this bank!,0,,2023-03-15
+585,Cannot reach anyone on the phone. Automated system is useless.,0,card_issues,2023-01-22
+586,Hidden fees that were never disclosed at account opening. Disgusting. Avoid this bank!,0,loan,2024-05-29
+587,The app keeps crashing and I cannot access my account.,0,loan,2024-07-24
+588,Transferred money internationally without any issues. Great service!,1,mobile_app,2024-10-12
+589,Interest rate changed without warning. Feels like fraud.,0,card_issues,2023-07-05
+590,Really pleased with how the team handled my fraud complaint.,1,fees,2023-10-01
+591,"Friendly staff, efficient service. Will definitely stay with this bank.",1,loan,2023-08-29
+592,The customer service was excellent and very professional. Five stars!,1,fees,2023-04-24
+593,The customer service was excellent and very professional. Perfect!,1,fees,2024-08-14
+594,Waited 3 weeks for a simple document. Completely unacceptable.,0,card_issues,2023-05-23
+595,Staff at the branch were dismissive and made me feel unwelcome. Zero stars.,0,service,2023-03-03
+596,Fast and reliable service. My card issue was resolved same day. Perfect!,1,fees,2023-01-31
+597,The app keeps crashing and I cannot access my account.,0,fees,2023-11-04
+598,Worst bank ever. Every interaction is a nightmare. Avoid this bank!,0,service,2024-11-03
+599,"Service is okay, not great but acceptable.",0,service,2023-09-17
+600,Waited 3 weeks for a simple document. Completely unacceptable.,0,app_issues,2024-04-14
+171,"Average bank, nothing special but gets the job done.",1,loan,2023-09-06
+369,My mortgage was approved quickly. Very happy with the process. Highly recommend!,1,service,2024-07-29
+371,"Standard experience, similar to other banks.",0,support,2023-01-01
+368,Transferred money internationally without any issues. Great service! Perfect!,1,support,2024-09-20
+160,"Online banking app works perfectly, love the new features. Highly recommend!",1,fees,2024-11-08
+506,Worst bank ever. Every interaction is a nightmare.,0,service,2024-05-10
+99,Best bank I have ever used. Transparent fees and excellent support. Highly recommend!,1,fees,2024-01-16
+188,"Horrible experience, waited 45 minutes just to speak to someone.",0,service,2023-01-22
+261,Overcharged three times this month. No resolution after two calls. Zero stars.,0,app_issues,2024-08-22
+125,"Online banking app works perfectly, love the new features. Five stars!",1,service,
+185,The mobile app is intuitive and I can manage everything easily. Highly recommend!,1,,2024-01-24
+402,Loan rejection with no explanation given. Terrible service. Zero stars.,0,fees,2023-04-11
